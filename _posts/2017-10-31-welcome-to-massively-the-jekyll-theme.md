@@ -1,17 +1,16 @@
 ---
 layout: post
-title:  "Welcome to Massively: The Jekyll Theme!"
+title:  "Welcome to My New Blog!"
 date:   2017-10-31
 excerpt: "Huge thanks to HTML5 UP for making this awesome template! Let's see what it can do"
 image: "/images/pic02.jpg"
 ---
 
-## How to Use This Theme
-Just go ahead and read up on [how to install Jekyll](https://jekyllrb.com/). It's not too hard I promise!
+## Welcome to my new blog hosted on github!
+I have scrapped my old website in favor of a newer, more modern looking design and have moved hosting over to github! 
 
-Download this repository [here](https://github.com/iwiedenm/jekyll-theme-massively) and save it to any folder you want.
+This jekyll theme is called "Massively" and can be found [here](https://github.com/iwiedenm/jekyll-theme-massively).
 
-Open a terminal window or a command line and ```cd``` to that location.
 
 Then enter: ```bundle exec jekyll serve```. You can now access your new Jekyll site from [http://127.0.0.1:4000/](http://127.0.0.1:4000/). Have fun exploring your new site!
 
