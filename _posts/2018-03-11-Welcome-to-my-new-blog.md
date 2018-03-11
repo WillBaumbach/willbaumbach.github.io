@@ -3,8 +3,8 @@ layout: post
 title: Welcome to My New Blog!
 excerpt: I you want to learn more about me, read this!
 categories: [About Me]
-comments: false
 tags: introduction interests
+comments: true
 ---
 {% highlight java %}
 System.out.println("Hello Reader!");
