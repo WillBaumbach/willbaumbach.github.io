@@ -39,16 +39,16 @@ owner:
   bio: "A blog about all things me. If you like computers, coding, video games, fitness, and laughs you might like it here."
   email:
   disqus-shortname: willbaumbach-github-io
-  twitter: #username
+  twitter: will_baumbach
   facebook: #username
   google:
     plus: #username
-    analytics:
+    analytics: UA-90744290-2
     verify:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: willbaumbach
   gitlab: #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
