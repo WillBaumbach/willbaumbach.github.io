@@ -17,7 +17,7 @@ Also, a big piece of supporting evidence is that these listings were both posted
 
 On top of that, Call of Duty has really been falling to the wayside of Fortnite recently, which is a **free** "battle royale" game. This could be a good reason for Activision to release MW2R on short notice, in order to try to snatch up some users from Fortnite, and along with it, some micro transaction possibilities.
 
-Lastly, there is a person on [Twitter](https://www.twitter.com/marcus_sellars) who leaked Black Ops 4, which turned out to be real. He also has commented on MW2R being real, saying that it will be announced later this month. Take that for what it is I suppose. 
+Lastly, there is a person on [Twitter](https://www.twitter.com/marcus_sellars) who leaked Black Ops 4, and that leak turned out to be real. He also has commented on MW2R being real, saying that it will be announced later this month. Take that for what it is I suppose. 
 
 ### The Opposing Evidence
 
