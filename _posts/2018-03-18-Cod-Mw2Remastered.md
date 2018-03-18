@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Call of Duty: Modern Warfare 2 Remaster?
+title: Call of Duty Modern Warfare 2 Remaster?
 excerpt: A recent Amazon Italy posting has possibly leaked the existence and release of the next remastered Call of Duty! Let's talk about the details. 
 categories: [Video Games]
 tags: cod leaks speculation
