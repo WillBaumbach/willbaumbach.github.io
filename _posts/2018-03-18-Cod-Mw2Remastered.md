@@ -34,3 +34,19 @@ Another reason surrounds the controversial campaign mission "No Russian" which i
 There is a lot more evidence to both support and oppose the release of MW2R, but I think it is safe to say it is still all very up in the air at this point. Personally, I think it will be coming out soon. It's common for listings like the one that was leaked to pop up occasionally, and also the price and release could very well be a place holder. Also, there is a pretty legitimate source on Twitter confirming it which gives me hope it will come out. However, I definitely can't blame anyone who is skeptical, and perhaps it is just my own nostalgia and excitement about the game that is making me hope the leak is true. Either way, I would be elated if the game came out, and I would put a lot of time into it reliving the memories of the game I loved so much. Let me know what you guys/girls think and if there is anything major i'm missing! Lets all cross our fingers that this leak is true :)
 
 
+
+### EDIT - 3/18/18 (LATEE IN THE DAY)
+
+An update already?? There have been two more tweets to my knowledge that could add to the legitimacy of this leak. First, Ali-A, a well know Call of Duty YouTuber, tweeted:
+ 
+> Been a busy weekend preparing for videos to cover the next few days, as i'm flying to the US for a secret project! 👀 I can't say more than that for now!✈️. 
+
+This can be easily interpreted as him flying to see MW2R. If I remember correctly, something similar was done back when the original MWR was coming out, and I can't recall any WW2 DLC this is coming out soon, so I would guess it has to do with MW2R. 
+There was another tweet by Faze Jev, who I'm less familiar with, who tweeted:
+
+> Just got some info on MW2R 👀 @Marcus_Sellars
+
+His tweet was retweeted by Marcus Sellers (the account that leaked info mentioned above). This tweet is more clear as day, but I don't know much about Faze Jev so I can't say for sure if this really confirms anything. Also, on a side note, I guess eyeball emojis are in? Stay tuned for more updates!! Exciting times!!
+
+
+
