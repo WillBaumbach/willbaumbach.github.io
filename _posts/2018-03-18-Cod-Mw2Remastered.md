@@ -41,8 +41,8 @@ An update already?? There have been two more tweets to my knowledge that could a
  
 > Been a busy weekend preparing for videos to cover the next few days, as i'm flying to the US for a secret project! 👀 I can't say more than that for now!✈️. 
 
-This can be easily interpreted as him flying to see MW2R. If I remember correctly, something similar was done back when the original MWR was coming out, and I can't recall any WW2 DLC this is coming out soon, so I would guess it has to do with MW2R. 
-There was another tweet by Faze Jev, who I'm less familiar with, who tweeted:
+This can be easily interpreted as him flying to see MW2R. If I remember correctly, something similar was done back when the original MWR was coming out, and I can't recall any WW2 DLC that is coming out soon, so I would guess it has to do with MW2R. 
+The other tweet was by Faze Jev, who I'm less familiar with, and he said: 
 
 > Just got some info on MW2R 👀 @Marcus_Sellars
 
