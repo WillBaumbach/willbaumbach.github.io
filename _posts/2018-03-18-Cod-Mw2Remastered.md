@@ -35,7 +35,7 @@ There is a lot more evidence to both support and oppose the release of MW2R, but
 
 
 
-### EDIT - 3/18/18 (LATEE IN THE DAY)
+### EDIT - 3/18/18 (LATER IN THE DAY)
 
 An update already?? There have been two more tweets to my knowledge that could add to the legitimacy of this leak. First, Ali-A, a well know Call of Duty YouTuber, tweeted:
  
