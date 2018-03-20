@@ -2,7 +2,7 @@
 layout: post
 title: How I Live my Version of a Healthy Lifestyle
 excerpt: I just got off spring break, and it got me thinking about how I live my life as healthy as I can, without being overly strict with my choices.
-categories: Health and Fitness
+categories: Health&Fitness
 tags: diet eating
 comments: true
 ---
