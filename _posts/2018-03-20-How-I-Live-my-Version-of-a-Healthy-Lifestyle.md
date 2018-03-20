@@ -1,10 +1,10 @@
 ---
 layout: post
-Title: How I Live my Version of a Healthy Lifestyle
-Excerpt: I just got off spring break, and it got me thinking about how I live my life as healthy as I can, without being overly strict with my choices.
-Categories: Health&Fitness
-Tags: diet exercise
-Comments: true
+title: How I Live my Version of a Healthy Lifestyle
+excerpt: I just got off spring break, and it got me thinking about how I live my life as healthy as I can, without being overly strict with my choices.
+categories: Health and Fitness
+tags: diet eating
+comments: true
 ---
 
 I just recently had my spring break, and let me tell you I was not very good at sticking to my diet. For anyone who does not know me, I try to be very good about logging my food into MyFitnessPal and getting the calories and macros I have set for myself. A lot of people think this is a really weird thing to do when they find that out about me, but I think it’s simply being responsible. I want my body to be healthy, and with that comes not only eating healthy foods, but eating the correct portions of those foods. I’m only given one body, and seeing how obesity is so prevalent in today’s society, I think it is reasonable for me to want to treat it right and make sure I stay as healthy as I can.
