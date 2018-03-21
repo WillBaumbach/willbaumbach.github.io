@@ -19,3 +19,7 @@ The best part about living my life this way is that if I want to eat something, 
 Structuring my dieting in this way makes it a lot easier for me to live my life how I choose. I still go out to dinner, I still have drinks with friends, I still have candy and ice cream. Best of all, I feel little to no stress about what I am eating throughout the day. The biggest point of stress for me comes from when I get to the end of the day and I haven’t hit my protein macro. Luckily, I almost always have a protein shake available to me, and I can top off my protein intake with a scoop or two of whey protein. 
 
 I know if I ever want to get really serious about something like competing in a bodybuilding show I’ll have to get more strict with my diet, but for now I don’t have any plans for that. I’m just happy with hitting my calories and my protein and living my happy, healthy life. Now that I’m back at school, I should easily fall back into the groove of eating and tracking my foods like I should have been over break. Also, I’m hopefully getting a new deadlift PR today, so let’s hope I can get back into the groove of the gym as well (because lord knows I slacked on that too).
+
+### Update from the future!
+
+Gym went really well!! I got a new deadlift PR of 245 for 1, and it was extremely smooth. My estimated PR is around 260, but I think it would probably be 250 or 255. Either way, I'm well on my way to my goal of 275 :) Then 3 plates after that! Feeling good.
